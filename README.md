@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Taha-Khadim
+- 👀 I’m a Student and like to code
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on Python Project 
+- 📫 How to reach me mail ✉ 
