@@ -12,46 +12,32 @@ I design and ship **modern web applications** with React, Next.js, and TypeScrip
 
 ### 💻 Tech Stack
 
-| Frontend | Backend | AI & Tools |
-| :--- | :--- | :--- |
-| React, Next.js | Node.js, ASP.NET | Python, LLM Training |
-| TypeScript, Tailwind | Supabase, MSSQL | Docker, Git, Linux |
-| HTML5, CSS3 | REST APIs | Postman, Vite |
-
----
-
-### 💼 Professional Experience
-
-- **Freelance LLM Trainer & Web Developer** (Present)  
-  *Training AI models on OSWorld/TerminalBench & shipping full-stack apps.*
-- **Software Engineer** @ Enrichers Investment Group  
-  *Built internal tools for business operations & client management.*
-- **Associate Software Engineer** @ CureMD  
-  *Developed healthcare modules with ASP.NET Web APIs and Angular.*
-- **Python Developer Intern** @ Techno Hacks  
-  *Built Python apps with real-time logic and intuitive GUIs.*
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</div>
 ---
 
 ### 🏆 Featured Projects
 
+- **[Lumora Code](https://lumora-code.vercel.app)** – Collaborative coding and learning platform.
 - **[PMEXCalc](https://pmexcalc.vercel.app)** – Precision calculator for PMEX products with trade simulator.
 - **[Falcons Performance Analyzer](https://falcons-kpi.vercel.app)** – Supabase-powered employee KPI tracking system.
-- **[Lumora Code](https://lumora-code.vercel.app)** – Collaborative coding and learning platform.
 - **[SimBurq](https://simburq.vercel.app)** – Modern business website for strong digital presence.
-
----
-
-### 🎓 Education
-
-**BS Mechatronics and Control Engineering**  
-*University of Engineering and Technology (UET)* | 2020 – 2024  
-*Leadership: General Secretary, Mechatronics Club | Co-Head, Robotics Wing ACM UET*
 
 ---
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-taha-khadim-27a5391a9)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Taha-Khadim)
+### 🌐 Connect with me
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-amber?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tahakhadim.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-taha-khadim-27a5391a9)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahakhadim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tahakhadim.com)
