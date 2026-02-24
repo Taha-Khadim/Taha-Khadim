@@ -22,6 +22,7 @@ I design and ship **modern web applications** with React, Next.js, and TypeScrip
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </div>
+
 ---
 
 ### 🏆 Featured Projects
